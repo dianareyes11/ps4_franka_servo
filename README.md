@@ -161,7 +161,7 @@ All sticks use a dead-zone filter to prevent drift.
 | Control | Command |
 |---|---|
 | Left stick X | angular Y |
-| Left stick Y | angular X (sign inverted in code) |
+| Left stick Y | angular X |
 | R2 - L2 | linear Z |
 | Right stick X | angular Z (yaw) |
 
