@@ -67,7 +67,7 @@ class UnifiedPS4FrankaControl(Node):
         
         self.get_logger().info("PS4 Franka Servo Controller started")
         self.get_logger().info("Arm Controls:")
-        self.get_logger().info("  - CIRCLE (X): Activate Servo mode")
+        self.get_logger().info("  - CIRCLE (O): Activate Servo mode")
         self.get_logger().info("  - L1: Switch between Translation/Rotation modes")
         self.get_logger().info("Gripper Control:")
         self.get_logger().info("  - SQUARE: Toggle gripper open/close")
