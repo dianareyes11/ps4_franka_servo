@@ -2,7 +2,7 @@
 
 ROS 2 ament_python package that teleoperates a Franka Panda end-effector using a
 PS4 controller, interfacing with MoveIt Servo for real-time Cartesian motion and
-using Franka gripper actions for reliable open/close control. This only applies to PS4 controllers and may behave different with different controllers
+using Franka gripper actions for reliable open/close control. This only applies to PS4 controllers and may behave different with different controllers.
 
 This repository implements CPS - Deliverable Part 1:
 
